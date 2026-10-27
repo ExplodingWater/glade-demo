@@ -1,0 +1,25 @@
+{
+  "info": {
+    "name": "Audiovisual test — MP4",
+    "duration_secs": 180,
+    "plot": "Original Glade timing and subtitle test. CC0 1.0.",
+    "subtitles": [
+      {
+        "url": "https://explodingwater.github.io/glade-demo/media/eng.vtt",
+        "language": "English test"
+      },
+      {
+        "url": "https://explodingwater.github.io/glade-demo/media/spa.vtt",
+        "language": "Spanish test"
+      }
+    ]
+  },
+  "movie_data": {
+    "stream_id": 101,
+    "name": "Audiovisual test — MP4",
+    "container_extension": "mp4",
+    "stream_icon": "https://explodingwater.github.io/glade-demo/sync.jpg",
+    "category_id": "2",
+    "year": "2026"
+  }
+}

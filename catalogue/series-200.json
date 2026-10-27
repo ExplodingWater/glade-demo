@@ -1,0 +1,58 @@
+{
+  "info": {
+    "name": "Glade playback exercises",
+    "cover": "https://explodingwater.github.io/glade-demo/series.jpg",
+    "plot": "Synthetic series grouping of independent sample clips to test season and episode navigation. Timing media: CC0 1.0. Big Buck Bunny excerpt: © 2008 Blender Foundation, CC BY 3.0.",
+    "genre": "Test media",
+    "releaseDate": "2026",
+    "rating": 0
+  },
+  "seasons": [
+    {
+      "season_number": 1,
+      "name": "Playback tests",
+      "episode_count": 2
+    },
+    {
+      "season_number": 2,
+      "name": "Resume tests",
+      "episode_count": 1
+    }
+  ],
+  "episodes": {
+    "1": [
+      {
+        "id": "201",
+        "episode_num": 1,
+        "title": "Embedded English and Spanish captions",
+        "container_extension": "mkv",
+        "info": {
+          "duration": "03:00",
+          "duration_secs": 180
+        }
+      },
+      {
+        "id": "202",
+        "episode_num": 2,
+        "title": "Big Buck Bunny excerpt",
+        "container_extension": "mp4",
+        "info": {
+          "duration": "01:00",
+          "duration_secs": 60
+        }
+      }
+    ],
+    "2": [
+      {
+        "id": "203",
+        "episode_num": 1,
+        "title": "Audiovisual timing and resume",
+        "container_extension": "mp4",
+        "info": {
+          "duration": "03:00",
+          "duration_secs": 180
+        }
+      }
+    ]
+  }
+}

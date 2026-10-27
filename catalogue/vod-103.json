@@ -1,0 +1,16 @@
+{
+  "info": {
+    "name": "Big Buck Bunny — licensed excerpt",
+    "duration_secs": 60,
+    "plot": "Big Buck Bunny © 2008 Blender Foundation, bigbuckbunny.org. CC BY 3.0; excerpt transcoded from official download.",
+    "subtitles": []
+  },
+  "movie_data": {
+    "stream_id": 103,
+    "name": "Big Buck Bunny — licensed excerpt",
+    "container_extension": "mp4",
+    "stream_icon": "https://explodingwater.github.io/glade-demo/bunny.jpg",
+    "category_id": "2",
+    "year": "2026"
+  }
+}

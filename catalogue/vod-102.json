@@ -1,0 +1,16 @@
+{
+  "info": {
+    "name": "Embedded subtitle test — MKV",
+    "duration_secs": 180,
+    "plot": "Original Glade timing and subtitle test. CC0 1.0.",
+    "subtitles": []
+  },
+  "movie_data": {
+    "stream_id": 102,
+    "name": "Embedded subtitle test — MKV",
+    "container_extension": "mkv",
+    "stream_icon": "https://explodingwater.github.io/glade-demo/sync.jpg",
+    "category_id": "2",
+    "year": "2026"
+  }
+}

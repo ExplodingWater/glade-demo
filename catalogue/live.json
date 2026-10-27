@@ -1,0 +1,14 @@
+[
+  {
+    "stream_id": 301,
+    "name": "Audiovisual HLS sample (finite recording)",
+    "stream_icon": "https://explodingwater.github.io/glade-demo/sync.jpg",
+    "category_id": "1"
+  },
+  {
+    "stream_id": 302,
+    "name": "Big Buck Bunny HLS sample (finite recording)",
+    "stream_icon": "https://explodingwater.github.io/glade-demo/bunny.jpg",
+    "category_id": "1"
+  }
+]
